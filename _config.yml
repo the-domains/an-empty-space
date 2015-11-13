@@ -2,12 +2,13 @@ name: An empty space
 favicon: null
 layout_spectrum: 0.5852979710325599
 typography_spectrum: 0.5090862726792693
+title: An empty space
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-2502854-1
   facebook: null
   twitter: null
 opengraph:
