@@ -1,7 +1,7 @@
 name: An empty space
 favicon: null
-layout_spectrum: 0.5852979710325599
-typography_spectrum: 0.5090862726792693
+layout_spectrum: 0.75017
+typography_spectrum: 0.24412
 title: Peter Noble - agile storyteller
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#837d6c'
+    - '#84a8e2'
+    - '#514d3b'
+    - '#22231c'
+    - '#bfc17a'
   brandStrength: 0.08753613359294832
-  lightness: 0.9179283522535115
+  lightness: 0.5
   saturation: 0.06271706381812692
-  rhythmicContrast: 0.9673123594839126
+  rhythmicContrast: 1
 purpose: []
